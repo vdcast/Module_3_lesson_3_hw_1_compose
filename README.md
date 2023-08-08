@@ -5,4 +5,4 @@ Broadcast receivers, Services.
 
 **Task:**
 
-Repeat the program with audio playback from the lesson.
+Repeat application with audio playback from the lesson.
